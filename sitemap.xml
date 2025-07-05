@@ -1,0 +1,2508 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+
+
+<url>
+  <loc>https://www.malvuln.com/</loc>
+  <lastmod>2022-12-14T05:41:59+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://www.malvuln.com/advisory/5559e9f5e1645f8554ea020a29a5a3ee.txt</loc>
+  <lastmod>2022-12-14T05:41:49+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.malvuln.com/advisory/dd76d8a5874bf8bf05279e35c68449ca.txt</loc>
+  <lastmod>2022-12-14T05:41:12+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.malvuln.com/advisory/618f28253d1268132a9f10819a6947f2.txt</loc>
+  <lastmod>2022-12-12T00:43:21+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.malvuln.com/advisory/8872c2ec49ff3382240762a029631684.txt</loc>
+  <lastmod>2022-12-02T03:24:19+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.malvuln.com/advisory/99e55ce93392068c970384ab24a0e13d.txt</loc>
+  <lastmod>2022-11-25T05:44:04+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.malvuln.com/advisory/d891c9374ccb2a4cae2274170e8644d8.txt</loc>
+  <lastmod>2022-11-25T01:28:32+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.malvuln.com/advisory/4262a8b52b902aa2e6bf02a156d1b8d4.txt</loc>
+  <lastmod>2022-11-24T21:53:00+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.malvuln.com/advisory/f312e3a436995b86b205a1a37b1bf10f.txt</loc>
+  <lastmod>2022-11-23T02:03:00+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.malvuln.com/advisory/aef85cf0d521eaa6aade11f95ea07ebe.txt</loc>
+  <lastmod>2022-11-19T04:12:59+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.malvuln.com/advisory/71a76adeadc7b51218d265771fc2b0d1.txt</loc>
+  <lastmod>2022-11-19T03:03:39+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.malvuln.com/advisory/13ce53de9ca4c4e6c58f990b442cb419.txt</loc>
+  <lastmod>2022-11-16T01:30:30+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.malvuln.com/advisory/05a082d441d9cf365749c0e1eb904c85.txt</loc>
+  <lastmod>2022-11-12T02:51:30+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.malvuln.com/advisory/bc2ccf92bea475f828dcdcb1c8f6cc92.txt</loc>
+  <lastmod>2022-11-10T01:09:07+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.malvuln.com/advisory/2047ac6183da4dfb61d2562721ba0720.txt</loc>
+  <lastmod>2022-11-10T01:08:45+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.malvuln.com/advisory/8d0df60c96e4011c312d61ed3e6dc70e.txt</loc>
+  <lastmod>2022-10-23T05:46:45+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.malvuln.com/advisory/70c5f8d61f6ac67091c0c5860e456427.txt</loc>
+  <lastmod>2022-10-22T22:57:07+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.malvuln.com/advisory/b3b19524967d22d6eb7517b03b660b00.txt</loc>
+  <lastmod>2022-10-22T22:56:18+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.malvuln.com/advisory/bb309bdd071d5733efefe940a89fcbe8.txt</loc>
+  <lastmod>2022-10-17T00:52:55+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.malvuln.com/advisory/1164ef21ef2af97e0339359c0dce5e7d.txt</loc>
+  <lastmod>2022-10-15T23:28:40+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.malvuln.com/advisory/de6220a8e8fcbbee9763fb10e0ca23d7.txt</loc>
+  <lastmod>2022-10-02T05:37:25+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.malvuln.com/advisory/273fd3f33279cc9c0378a49cf63d7a06.txt</loc>
+  <lastmod>2022-10-02T05:36:56+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.malvuln.com/advisory/0b8cf90ab9820cb3fcb7f1d1b45e4e57.txt</loc>
+  <lastmod>2022-09-26T01:38:00+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.malvuln.com/advisory/94ccd337cbdd4efbbcc0a6c888abb87d.txt</loc>
+  <lastmod>2022-09-26T01:38:23+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.malvuln.com/advisory/eacaa12336f50f1c395663fba92a4d32.txt</loc>
+  <lastmod>2022-09-25T00:56:14+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.malvuln.com/advisory/2cbd0fcf4d5fd5fb6c8014390efb0b21_B.txt</loc>
+  <lastmod>2022-09-20T00:11:05+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.malvuln.com/advisory/2cbd0fcf4d5fd5fb6c8014390efb0b21.txt</loc>
+  <lastmod>2022-09-20T00:10:43+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.malvuln.com/advisory/5ac0f050f93f86e69026faea1fbb4450.txt</loc>
+  <lastmod>2022-09-20T00:24:06+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.malvuln.com/advisory/f72138e574743640bdcdb9f102dff0a5.txt</loc>
+  <lastmod>2022-09-20T00:10:01+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.malvuln.com/advisory/d871836f77076eeed87eb0078c1911c7_B.txt</loc>
+  <lastmod>2022-09-07T00:02:50+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.malvuln.com/advisory/d871836f77076eeed87eb0078c1911c7.txt</loc>
+  <lastmod>2022-09-07T00:00:55+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.malvuln.com/advisory/44aba241dd3f0d156c6ed82a0ab3a9e1.txt</loc>
+  <lastmod>2022-09-07T00:02:28+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.malvuln.com/advisory/8c0e6ec6b8ac9eb1169e63df71f24456.txt</loc>
+  <lastmod>2022-09-07T00:02:05+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.malvuln.com/advisory/121bf601275e2aed0c3a6fe7910f9826.txt</loc>
+  <lastmod>2022-09-07T00:01:41+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.malvuln.com/advisory/5bc5f72d19019a2fa3b75896e82ae1e5.txt</loc>
+  <lastmod>2022-09-07T00:01:17+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.malvuln.com/advisory/961fa85207cdc4ef86a076bbff07a409.txt</loc>
+  <lastmod>2022-08-13T05:55:42+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.malvuln.com/advisory/857999d2306f257b80d1b8f6a51ae8b0.txt</loc>
+  <lastmod>2022-08-09T00:55:20+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.malvuln.com/advisory/76c09bc82984c7f7ef55eb13018e0d87_B.txt</loc>
+  <lastmod>2022-08-05T01:01:49+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.malvuln.com/advisory/76c09bc82984c7f7ef55eb13018e0d87.txt</loc>
+  <lastmod>2022-08-05T01:01:28+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.malvuln.com/advisory/783a191e7944e1af84ec0fa96d933f30.txt</loc>
+  <lastmod>2022-08-04T00:01:24+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.malvuln.com/advisory/c790749f851d48e66e7d59cc2e451956_B.txt</loc>
+  <lastmod>2022-07-31T01:13:52+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.malvuln.com/advisory/c790749f851d48e66e7d59cc2e451956.txt</loc>
+  <lastmod>2022-07-31T01:08:54+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.malvuln.com/advisory/8b470931114527b4dce42034a95ebf46.txt</loc>
+  <lastmod>2022-07-22T00:20:44+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.malvuln.com/advisory/7f314e798c150aedd9ce41ed39318f65_B.txt</loc>
+  <lastmod>2022-07-15T21:13:33+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.malvuln.com/advisory/7f314e798c150aedd9ce41ed39318f65.txt</loc>
+  <lastmod>2022-07-15T21:13:37+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.malvuln.com/advisory/e3bb503f9b02cf57341695f30e31128f.txt</loc>
+  <lastmod>2022-07-15T21:08:59+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.malvuln.com/advisory/38745539b71cf201bb502437f891d799_B.txt</loc>
+  <lastmod>2022-07-05T01:52:36+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.malvuln.com/advisory/38745539b71cf201bb502437f891d799.txt</loc>
+  <lastmod>2022-07-04T01:29:51+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.malvuln.com/advisory/20daf01e941f966b21a7ae431faefc65.txt</loc>
+  <lastmod>2022-06-30T01:11:28+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.malvuln.com/advisory/49da40a2ac819103da9dc5ed10d08ddb.txt</loc>
+  <lastmod>2022-06-30T01:11:07+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.malvuln.com/advisory/a8fc1b3f7a605dc06a319bf0e14ca68b.txt</loc>
+  <lastmod>2022-06-30T01:11:52+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.malvuln.com/advisory/20e438d84aa2828826d52540d80bf7fa.txt</loc>
+  <lastmod>2022-06-24T02:23:42+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.malvuln.com/advisory/5a83f8b8c8a8b7a85b3ff632aa60e793.txt</loc>
+  <lastmod>2022-06-24T02:29:48+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.malvuln.com/advisory/1fd70e41918c3a75c634b1c234ec36fb.txt</loc>
+  <lastmod>2022-06-24T02:24:04+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.malvuln.com/advisory/13e878ed7e547523cffc5728f6ba4190.txt</loc>
+  <lastmod>2022-06-24T02:22:56+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.malvuln.com/advisory/40acf109fa9621eae6930ef18f804909.txt</loc>
+  <lastmod>2022-06-07T02:14:33+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.malvuln.com/advisory/e0f2bee25dd103d92e91e895e313ec34.txt</loc>
+  <lastmod>2022-06-07T01:58:29+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.malvuln.com/advisory/bffc519fbaf2d119bd307cd22368cdc7.txt</loc>
+  <lastmod>2022-06-07T01:59:11+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.malvuln.com/advisory/dedad693898bba0e4964e6c9a749d380.txt</loc>
+  <lastmod>2022-06-07T02:08:22+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.malvuln.com/advisory/ef1e59148c9a902ae5454760aaab73fe.txt</loc>
+  <lastmod>2022-06-07T01:57:43+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.malvuln.com/advisory/be60e389a0108b2871dff12dfbb542ac.txt</loc>
+  <lastmod>2022-05-17T01:12:47+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.malvuln.com/advisory/eedd1cfc7acd012bbec464aebc679ee4.txt</loc>
+  <lastmod>2022-05-14T02:38:34+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.malvuln.com/advisory/146ec3f6c262d0f287e67ddb3cc69892.txt</loc>
+  <lastmod>2022-05-14T02:38:15+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.malvuln.com/advisory/0c4502d6655264a9aa420274a0ddeaeb.txt</loc>
+  <lastmod>2022-05-14T02:37:55+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.malvuln.com/advisory/6748dfe8e64dea2fc4c14691f7e766c6.txt</loc>
+  <lastmod>2022-05-14T02:37:33+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.malvuln.com/advisory/7ba20fce7ac259f6062f73290c2e28cf.txt</loc>
+  <lastmod>2022-05-14T02:37:12+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.malvuln.com/advisory/b485c36f28c5c967a50001c9e8d2c29c.txt</loc>
+  <lastmod>2022-05-14T02:36:52+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.malvuln.com/advisory/daab2c9d58acc367032f32bb8097e310.txt</loc>
+  <lastmod>2022-05-12T14:36:57+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.malvuln.com/advisory/ab1aaa8f96c61684736da00ece5a9c83.txt</loc>
+  <lastmod>2022-05-12T14:35:07+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.malvuln.com/advisory/c9bf7216cdc2673bf4ee2af8b19bcfc8.txt</loc>
+  <lastmod>2022-05-12T14:35:48+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.malvuln.com/advisory/7ff073cc9e4e6750ba52135ba02ee531.txt</loc>
+  <lastmod>2022-05-12T14:36:34+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.malvuln.com/advisory/8ca35b7867e23a1bbb0fea6d51fc1b61.txt</loc>
+  <lastmod>2022-05-12T14:37:22+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.malvuln.com/advisory/7a96d7a1f28bfb6ae36a15263a8a7135.txt</loc>
+  <lastmod>2022-05-12T14:36:12+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.malvuln.com/advisory/d6751b148461e0f863548be84020b879.txt</loc>
+  <lastmod>2022-05-09T04:18:44+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.malvuln.com/advisory/46bfd4f1d581d7c0121d2b19a005d3df.txt</loc>
+  <lastmod>2022-05-08T01:35:55+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.malvuln.com/advisory/20f0c736a966142de88dee06a2e4a5b1.txt</loc>
+  <lastmod>2022-05-08T01:35:25+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.malvuln.com/advisory/8ed9a60127aee45336102bf12059a850.txt</loc>
+  <lastmod>2022-05-07T03:29:44+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.malvuln.com/advisory/2aea3b217e6a3d08ef684594192cafc8.txt</loc>
+  <lastmod>2022-05-07T02:27:45+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.malvuln.com/advisory/6152709e741c4d5a5d793d35817b4c3d.txt</loc>
+  <lastmod>2022-05-06T21:21:23+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.malvuln.com/advisory/209a288c68207d57e0ce6e60ebf60729.txt</loc>
+  <lastmod>2022-05-06T21:08:45+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.malvuln.com/advisory/3b200c8173a92c94441cb062d38012f6.txt</loc>
+  <lastmod>2022-05-06T01:25:12+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.malvuln.com/advisory/de25f04dedaffde1be47ef26dc9a8176.txt</loc>
+  <lastmod>2022-05-06T21:08:25+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.malvuln.com/advisory/ae99e6a451bc53830be799379f5c1104.txt</loc>
+  <lastmod>2022-05-06T21:08:03+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.malvuln.com/advisory/0cffee266a8f14103158465e2ecdd2c1.txt</loc>
+  <lastmod>2022-05-07T22:28:57+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.malvuln.com/advisory/4c5c1731481ea8d67ef6076810c49e00.txt</loc>
+  <lastmod>2022-05-06T21:07:09+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.malvuln.com/advisory/84c82835a5d21bbcf75a61706d8ab549.txt</loc>
+  <lastmod>2022-05-04T03:58:05+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.malvuln.com/advisory/979635229dfcfae1aae74ae296ec78c8.txt</loc>
+  <lastmod>2022-05-04T00:42:59+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.malvuln.com/advisory/3c55ee6753408bff2e3e6a392ed9f2a0.txt</loc>
+  <lastmod>2022-05-03T21:07:40+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.malvuln.com/advisory/710a77804637f65e22a2e230ff6444f9.txt</loc>
+  <lastmod>2022-05-03T20:05:05+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.malvuln.com/advisory/0adb0e2ac8aa969fb088ee95c4a91536.txt</loc>
+  <lastmod>2022-05-03T13:58:11+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.malvuln.com/advisory/7d7ee58c2696794b3be958b165eb61a9.txt</loc>
+  <lastmod>2022-05-03T12:56:05+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.malvuln.com/advisory/9eb9197cd58f4417a27621c4e1b25a71.txt</loc>
+  <lastmod>2022-09-20T21:07:14+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.malvuln.com/advisory/2ffc2446a2a6cf04c06a85deb43b9fb8.txt</loc>
+  <lastmod>2022-05-03T05:00:20+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.malvuln.com/advisory/998022b70d83c6de68e5bdf94e0f8d71.txt</loc>
+  <lastmod>2022-05-03T03:17:06+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.malvuln.com/advisory/40f2238875fcbd2a92cfefc4846a15a8.txt</loc>
+  <lastmod>2022-05-02T23:42:06+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.malvuln.com/advisory/96de05212b30ec85d4cf03386c1b84af.txt</loc>
+  <lastmod>2022-05-02T05:11:45+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.malvuln.com/advisory/58be35e792476d1c015df7853112d200.txt</loc>
+  <lastmod>2022-04-27T01:35:03+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.malvuln.com/advisory/fb3ac3c9d808de7f4b5ede68715f658f.txt</loc>
+  <lastmod>2022-04-27T01:35:24+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.malvuln.com/advisory/851f8945d1b5923990f4722d627156a0_B.txt</loc>
+  <lastmod>2022-04-27T01:35:44+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.malvuln.com/advisory/851f8945d1b5923990f4722d627156a0.txt</loc>
+  <lastmod>2022-04-27T01:34:41+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.malvuln.com/advisory/d859ba54086fd0313dc34b73b5b1eccb.txt</loc>
+  <lastmod>2022-04-27T01:36:25+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.malvuln.com/advisory/fa00524d7289cdba327d5c34ab3d9bd7.txt</loc>
+  <lastmod>2022-04-27T01:36:04+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.malvuln.com/advisory/c44a9580e17bad0aa27329e51b7d0ae0.txt</loc>
+  <lastmod>2022-04-27T01:34:19+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.malvuln.com/advisory/a98cdaa89da57bf269873db63e22a939.txt</loc>
+  <lastmod>2022-04-27T01:33:58+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.malvuln.com/advisory/4243911d5ca5655d04de8895704fcae6.txt</loc>
+  <lastmod>2022-04-27T01:33:16+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.malvuln.com/advisory/94d1b2510bf96fa6190cd65876bf4c38.txt</loc>
+  <lastmod>2022-04-27T01:33:38+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.malvuln.com/advisory/f15d05f74899324ecb61ee29ad162fad.txt</loc>
+  <lastmod>2022-04-27T01:32:54+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.malvuln.com/advisory/5aa81ddc996be64116754efac0e4f55d_B.txt</loc>
+  <lastmod>2022-04-19T01:37:04+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.malvuln.com/advisory/5aa81ddc996be64116754efac0e4f55d.txt</loc>
+  <lastmod>2022-04-19T01:36:44+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.malvuln.com/advisory/4b9a42ca1e65cf0a7febbe18f397ef24.txt</loc>
+  <lastmod>2022-04-19T01:36:17+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.malvuln.com/advisory/d9542df20f8df457747451dd9e16d1c0.txt</loc>
+  <lastmod>2022-04-19T01:35:57+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.malvuln.com/advisory/9acdbfc9f7c1f6e589485b30aa91bfd2.txt</loc>
+  <lastmod>2022-04-19T01:37:25+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.malvuln.com/advisory/9d18d318e017b513b9c6cd193ccdc6ff.txt</loc>
+  <lastmod>2022-04-19T01:35:36+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.malvuln.com/advisory/9a8150938bff3a17fa0169c3dc6dae85.txt</loc>
+  <lastmod>2022-04-19T01:35:12+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.malvuln.com/advisory/92f7f9495ffd56d05a5acf395c9e0097.txt</loc>
+  <lastmod>2022-04-19T01:34:52+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.malvuln.com/advisory/9f39606d9e19771af5acc6811ccf557f.txt</loc>
+  <lastmod>2022-04-15T01:59:52+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.malvuln.com/advisory/45d413b46f1d14a45e8fd36921813d62.txt</loc>
+  <lastmod>2022-04-15T01:59:31+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.malvuln.com/advisory/dcf16aed5ad4e0058a6cfcc7593dd9e3.txt</loc>
+  <lastmod>2022-04-15T01:59:11+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.malvuln.com/advisory/8f44374d587eb1657d25da9628cb2b87.txt</loc>
+  <lastmod>2022-04-15T01:58:50+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.malvuln.com/advisory/d069738f18957117367b8a79195a6a96.txt</loc>
+  <lastmod>2022-04-15T01:58:29+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.malvuln.com/advisory/60a7d5e2d446110d84ef65f6a37af0eb.txt</loc>
+  <lastmod>2022-04-15T02:00:34+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.malvuln.com/advisory/9ede6951ea527f96a785c5e32b5079e6.txt</loc>
+  <lastmod>2022-04-15T02:00:13+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.malvuln.com/advisory/2d81bf2c55c81778533b55fb444d4dc6.txt</loc>
+  <lastmod>2022-04-15T01:58:08+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.malvuln.com/advisory/91b2d216c5d26d9db4289acf68fa1743.txt</loc>
+  <lastmod>2022-04-15T01:57:46+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.malvuln.com/advisory/2906b5dc5132dd1319827415e837168f.txt</loc>
+  <lastmod>2022-04-07T04:17:34+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.malvuln.com/advisory/89000e259ffbd107b7cc9bac66dcdcf5.txt</loc>
+  <lastmod>2022-04-07T03:51:25+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.malvuln.com/advisory/837ec70bfb305b5c862ff9b04e70a318_B.txt</loc>
+  <lastmod>2022-04-07T03:51:04+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.malvuln.com/advisory/ea9ab5983a6fa71e31907e74d4ddbab6_B.txt</loc>
+  <lastmod>2022-04-07T03:49:42+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.malvuln.com/advisory/ea9ab5983a6fa71e31907e74d4ddbab6.txt</loc>
+  <lastmod>2022-04-07T03:50:44+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.malvuln.com/advisory/82641dabbb1f73dd775e200466a07ec1.txt</loc>
+  <lastmod>2022-04-07T03:50:23+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.malvuln.com/advisory/e087725b01dded75d85a20db58335fa8.txt</loc>
+  <lastmod>2022-04-07T03:49:21+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.malvuln.com/advisory/837ec70bfb305b5c862ff9b04e70a318.txt</loc>
+  <lastmod>2022-04-07T03:48:59+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.malvuln.com/advisory/9e4f942c60044feef0fb48538ffac383.txt</loc>
+  <lastmod>2022-04-07T03:48:37+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.malvuln.com/advisory/3b5564e88a0b8a41e4fd730891e635cc.txt</loc>
+  <lastmod>2022-04-07T03:50:02+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.malvuln.com/advisory/9fa664bc52e1aa46a09ac51aaa6c7384.txt</loc>
+  <lastmod>2022-04-07T04:02:16+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.malvuln.com/advisory/cf3c08afa6c2d49ba36ed0f895893d71.txt</loc>
+  <lastmod>2022-04-03T00:56:40+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.malvuln.com/advisory/a6437375fff871dff97dc91c8fd6259f.txt</loc>
+  <lastmod>2022-04-03T00:56:18+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.malvuln.com/advisory/867c6b432ccd4aa51adc5e2722a4b144.txt</loc>
+  <lastmod>2022-04-03T00:55:50+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.malvuln.com/advisory/35f0d754f161af35241cb081c73ea6dd.txt</loc>
+  <lastmod>2022-03-28T03:07:47+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.malvuln.com/advisory/c16b04a9879896ef453a6deb13528087_B.txt</loc>
+  <lastmod>2022-03-27T01:36:28+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.malvuln.com/advisory/c16b04a9879896ef453a6deb13528087.txt</loc>
+  <lastmod>2022-03-27T01:36:07+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.malvuln.com/advisory/b24c56abb4bde960c2d51d4e509d2c68_B.txt</loc>
+  <lastmod>2022-03-26T01:58:22+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.malvuln.com/advisory/b24c56abb4bde960c2d51d4e509d2c68.txt</loc>
+  <lastmod>2022-03-26T01:58:00+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.malvuln.com/advisory/3dd1da64e306cae0409e154e15dd1b80.txt</loc>
+  <lastmod>2022-03-26T01:57:37+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.malvuln.com/advisory/eba3dd81723ddf33621fd85ded577920.txt</loc>
+  <lastmod>2022-03-22T00:53:43+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.malvuln.com/advisory/dcbc237f21839a6514c8321d5fa631a4.txt</loc>
+  <lastmod>2022-03-22T00:53:18+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.malvuln.com/advisory/531d8b4ac8f7eb827d62424169321b2b.txt</loc>
+  <lastmod>2022-03-17T18:22:17+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.malvuln.com/advisory/838f67d7a4b6824ec59892057aab3bb7_C.txt</loc>
+  <lastmod>2022-03-17T18:21:56+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.malvuln.com/advisory/838f67d7a4b6824ec59892057aab3bb7_B.txt</loc>
+  <lastmod>2022-03-17T18:21:35+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.malvuln.com/advisory/838f67d7a4b6824ec59892057aab3bb7.txt</loc>
+  <lastmod>2022-03-17T18:21:13+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.malvuln.com/advisory/ae4a409d217bbd538009fbbb5457e754.txt</loc>
+  <lastmod>2022-03-17T18:20:51+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.malvuln.com/advisory/cc3670f1b3e60e00b43c86d787563a44_B.txt</loc>
+  <lastmod>2022-03-17T18:20:31+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.malvuln.com/advisory/cc3670f1b3e60e00b43c86d787563a44.txt</loc>
+  <lastmod>2022-03-17T18:20:07+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.malvuln.com/advisory/c4cc1317aea42f7dd4a1b786c5278a24_C.txt</loc>
+  <lastmod>2022-03-13T06:11:48+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.malvuln.com/advisory/c4cc1317aea42f7dd4a1b786c5278a24_B.txt</loc>
+  <lastmod>2022-03-13T06:11:27+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.malvuln.com/advisory/c4cc1317aea42f7dd4a1b786c5278a24.txt</loc>
+  <lastmod>2022-03-13T06:12:11+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.malvuln.com/advisory/baf102927947289e4d589028620ce291.txt</loc>
+  <lastmod>2022-03-13T06:10:36+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.malvuln.com/advisory/aabb54951546132e70a8e9f02bf8b5ba_B.txt</loc>
+  <lastmod>2022-03-05T22:07:42+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.malvuln.com/advisory/aabb54951546132e70a8e9f02bf8b5ba.txt</loc>
+  <lastmod>2022-03-05T22:07:20+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.malvuln.com/advisory/6a6ce3e7f24bf000d9a011a8f1905da8.txt</loc>
+  <lastmod>2022-03-04T02:07:47+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.malvuln.com/advisory/2862de561d91eedb265df4ae9b0fc872.txt</loc>
+  <lastmod>2022-03-04T02:07:28+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.malvuln.com/advisory/30903ccbc6747c0da5a2775884b78def_C.txt</loc>
+  <lastmod>2022-03-04T02:07:06+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.malvuln.com/advisory/30903ccbc6747c0da5a2775884b78def_B.txt</loc>
+  <lastmod>2022-03-04T02:06:43+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.malvuln.com/advisory/30903ccbc6747c0da5a2775884b78def.txt</loc>
+  <lastmod>2022-03-04T02:05:36+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.malvuln.com/advisory/9c23dad9ba11305fecf38bed46b0cec2.txt</loc>
+  <lastmod>2022-03-04T02:06:20+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.malvuln.com/advisory/0d1f873f6816debd244e1e77509f6ba7.txt</loc>
+  <lastmod>2022-03-04T02:05:59+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.malvuln.com/advisory/bf1b1a2f4be78d6b62ed7c316c77a9a1.txt</loc>
+  <lastmod>2022-03-04T02:05:13+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.malvuln.com/advisory/584bc06128469423f9e50e8a359d18ac_C.txt</loc>
+  <lastmod>2022-02-23T03:45:47+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.malvuln.com/advisory/584bc06128469423f9e50e8a359d18ac_B.txt</loc>
+  <lastmod>2022-02-23T03:45:24+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.malvuln.com/advisory/584bc06128469423f9e50e8a359d18ac.txt</loc>
+  <lastmod>2022-02-23T03:45:01+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.malvuln.com/advisory/c3e2bbe5dca96687422f2b4e8c80f4ce.txt</loc>
+  <lastmod>2022-02-23T03:44:39+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.malvuln.com/advisory/3a505e7ea1beee556860488e34db8da6.txt</loc>
+  <lastmod>2022-02-22T02:00:35+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.malvuln.com/advisory/1f84a5305b65d7f6aa3afa7e2f2bda0e.txt</loc>
+  <lastmod>2022-02-22T02:01:00+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.malvuln.com/advisory/b4638a10f7cfdbf39b9fef7539c63852.txt</loc>
+  <lastmod>2022-02-22T01:59:49+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.malvuln.com/advisory/fe0dacbc953d4301232b386fcb3afc23.txt</loc>
+  <lastmod>2022-02-17T02:25:57+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.malvuln.com/advisory/8201ba6b542fc91c004110b2fc5395aa.txt</loc>
+  <lastmod>2022-02-17T02:26:40+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.malvuln.com/advisory/1c255ef6fd44877700867f94a59875d2.txt</loc>
+  <lastmod>2022-02-17T02:25:33+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.malvuln.com/advisory/65a53a37843db2b86a67a9e23277c1bf.txt</loc>
+  <lastmod>2022-02-17T02:24:48+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.malvuln.com/advisory/1e3665a67201209609ae493a2a590bee_C.txt</loc>
+  <lastmod>2022-02-17T02:25:10+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.malvuln.com/advisory/1e3665a67201209609ae493a2a590bee_B.txt</loc>
+  <lastmod>2022-02-17T02:26:19+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.malvuln.com/advisory/1e3665a67201209609ae493a2a590bee.txt</loc>
+  <lastmod>2022-02-17T02:24:20+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.malvuln.com/advisory/434923afc32a7bc7355ed9a5224b9273.txt</loc>
+  <lastmod>2022-02-09T03:21:37+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.malvuln.com/advisory/29bc048d58ab8038c7001ef0d5e69c9b_B.txt</loc>
+  <lastmod>2022-02-09T03:20:53+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.malvuln.com/advisory/29bc048d58ab8038c7001ef0d5e69c9b.txt</loc>
+  <lastmod>2022-02-09T03:20:31+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.malvuln.com/advisory/55822613e0d0f437f3ebe5c7f4155452.txt</loc>
+  <lastmod>2022-02-09T03:21:15+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.malvuln.com/advisory/3d4350282ae043177063de2ad4827b97.txt</loc>
+  <lastmod>2022-02-09T03:20:10+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.malvuln.com/advisory/16fab35b51f9e6447f2a8c04db4ebe93.txt</loc>
+  <lastmod>2022-02-09T03:19:49+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.malvuln.com/advisory/9f11868c3beaa8e2c1f5c193f5888b85.txt</loc>
+  <lastmod>2022-02-05T05:13:16+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.malvuln.com/advisory/36ca28db068b6f6634d633fe61d34a7d.txt</loc>
+  <lastmod>2022-02-02T04:05:14+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.malvuln.com/advisory/e369bbd8acbe8322834e3adbad30ff5c.txt</loc>
+  <lastmod>2022-05-04T18:10:34+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.malvuln.com/advisory/f375f6569e146e432e23589b8f112165.txt</loc>
+  <lastmod>2022-02-02T04:04:29+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.malvuln.com/advisory/c61733c6bcbbb11cee634e0a3fd672e9.txt</loc>
+  <lastmod>2022-01-29T06:08:16+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.malvuln.com/advisory/c9291c93fce757a665352567ca13ec3f.txt</loc>
+  <lastmod>2022-01-29T06:08:41+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.malvuln.com/advisory/1fd45364073a81ddd707d74ba5d4c121.txt</loc>
+  <lastmod>2022-01-26T03:29:49+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.malvuln.com/advisory/61285c988de52b7c067fb2e703f2ab83_C.txt</loc>
+  <lastmod>2022-01-25T02:24:13+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.malvuln.com/advisory/61285c988de52b7c067fb2e703f2ab83_B.txt</loc>
+  <lastmod>2022-01-25T02:22:58+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.malvuln.com/advisory/61285c988de52b7c067fb2e703f2ab83.txt</loc>
+  <lastmod>2022-01-25T02:25:50+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.malvuln.com/advisory/5ff832ce6af4b03a709eaf380672cf34.txt</loc>
+  <lastmod>2022-01-25T02:25:26+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.malvuln.com/advisory/fc100ff65f676a26293915407adc211c_B.txt</loc>
+  <lastmod>2022-01-25T02:22:22+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.malvuln.com/advisory/fc100ff65f676a26293915407adc211c.txt</loc>
+  <lastmod>2022-01-25T02:21:58+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.malvuln.com/advisory/4087cffab90fa22c2882e2f97a467e8e.txt</loc>
+  <lastmod>2022-01-25T02:24:40+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.malvuln.com/advisory/09dd14d3988e08a56798b1480c55a5b0_B.txt</loc>
+  <lastmod>2022-01-25T02:21:35+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.malvuln.com/advisory/09dd14d3988e08a56798b1480c55a5b0.txt</loc>
+  <lastmod>2022-01-25T02:23:48+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.malvuln.com/advisory/b83836d7e6b0893e08d88a7850ca84ee.txt</loc>
+  <lastmod>2022-01-25T02:23:24+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.malvuln.com/advisory/204613443e555f73237ea43a2faecaa5_B.txt</loc>
+  <lastmod>2022-01-21T02:36:26+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.malvuln.com/advisory/204613443e555f73237ea43a2faecaa5.txt</loc>
+  <lastmod>2022-01-21T02:36:02+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.malvuln.com/advisory/5dfa998f62612e10d5d28d26948dd50f.txt</loc>
+  <lastmod>2022-01-20T03:09:18+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.malvuln.com/advisory/57bda78cc5fd6a06017148bae28e8e39.txt</loc>
+  <lastmod>2022-01-20T03:08:35+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.malvuln.com/advisory/54530f88c8e4f4371c9418f00c256b1d_B.txt</loc>
+  <lastmod>2022-01-20T03:08:13+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.malvuln.com/advisory/54530f88c8e4f4371c9418f00c256b1d.txt</loc>
+  <lastmod>2022-01-20T03:08:57+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.malvuln.com/advisory/ca294b2f778abc14fef6313b3cea7155.txt</loc>
+  <lastmod>2022-01-20T03:07:51+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.malvuln.com/advisory/8b855e56e41a6e10d28522a20c1e0341.txt</loc>
+  <lastmod>2022-01-17T04:34:34+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.malvuln.com/advisory/db9629508fda139f71f625d764c7eff7_B.txt</loc>
+  <lastmod>2022-01-17T03:30:48+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.malvuln.com/advisory/db9629508fda139f71f625d764c7eff7.txt</loc>
+  <lastmod>2022-01-17T03:30:20+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.malvuln.com/advisory/8abb41f6e7010d70c90f65fd9a740faa_C.txt</loc>
+  <lastmod>2022-01-16T03:53:15+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.malvuln.com/advisory/8abb41f6e7010d70c90f65fd9a740faa_B.txt</loc>
+  <lastmod>2022-01-16T03:52:53+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.malvuln.com/advisory/8abb41f6e7010d70c90f65fd9a740faa.txt</loc>
+  <lastmod>2022-01-16T03:52:24+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.malvuln.com/advisory/9e44c10307aa8194753896ecf8102167.txt</loc>
+  <lastmod>2022-01-15T22:25:39+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.malvuln.com/advisory/859aab793a42868343346163bd42f485.txt</loc>
+  <lastmod>2022-01-11T03:14:32+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.malvuln.com/advisory/bc7f4c4689f1b8ad395404d1e75c776f.txt</loc>
+  <lastmod>2022-01-06T03:08:21+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.malvuln.com/advisory/011961a42700e7385a106d362eb661c7_B.txt</loc>
+  <lastmod>2022-01-06T03:07:26+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.malvuln.com/advisory/011961a42700e7385a106d362eb661c7.txt</loc>
+  <lastmod>2022-01-06T03:07:53+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.malvuln.com/advisory/6c9665de78ae60a8e057d2c9cdb91596_B.txt</loc>
+  <lastmod>2022-01-06T03:07:00+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.malvuln.com/advisory/6c9665de78ae60a8e057d2c9cdb91596.txt</loc>
+  <lastmod>2022-01-06T03:05:36+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.malvuln.com/advisory/596882dfba543b23ad3225d24ee5e800_B.txt</loc>
+  <lastmod>2022-01-06T03:06:34+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.malvuln.com/advisory/596882dfba543b23ad3225d24ee5e800.txt</loc>
+  <lastmod>2022-01-06T03:06:09+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.malvuln.com/advisory/a7ce38e60cf08f2b234f34043b87e701_B.txt</loc>
+  <lastmod>2021-12-31T16:56:25+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.malvuln.com/advisory/a7ce38e60cf08f2b234f34043b87e701.txt</loc>
+  <lastmod>2021-12-31T16:55:58+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.malvuln.com/advisory/a1d045151c809535a308311931588fd0_B.txt</loc>
+  <lastmod>2021-12-31T16:55:29+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.malvuln.com/advisory/a1d045151c809535a308311931588fd0.txt</loc>
+  <lastmod>2021-12-31T16:54:45+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.malvuln.com/advisory/d724feed69ec7b624e4e178ad6579cfb.txt</loc>
+  <lastmod>2021-12-31T16:58:02+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.malvuln.com/advisory/b125a9a083447ad7d437e3e7f3ed5325_B.txt</loc>
+  <lastmod>2021-12-31T16:57:36+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.malvuln.com/advisory/b125a9a083447ad7d437e3e7f3ed5325.txt</loc>
+  <lastmod>2021-12-31T16:56:56+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.malvuln.com/advisory/0fca0250fa3fe8ee7e1cf0cc45a6b2d8.txt</loc>
+  <lastmod>2021-12-31T16:54:09+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.malvuln.com/advisory/1d12f9b921b38d7b521f12442bdd52d8_B.txt</loc>
+  <lastmod>2021-12-28T02:24:50+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.malvuln.com/advisory/1d12f9b921b38d7b521f12442bdd52d8.txt</loc>
+  <lastmod>2021-12-28T02:24:16+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.malvuln.com/advisory/f9dc0a462ada737f36efafac56f22b97.txt</loc>
+  <lastmod>2021-12-26T03:06:52+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.malvuln.com/advisory/e499a4c359a8cc46e641f39c0ed548f9.txt</loc>
+  <lastmod>2021-12-17T02:53:21+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.malvuln.com/advisory/9cec5a23887f0c73148ab3ea147a6fa4.txt</loc>
+  <lastmod>2021-12-17T02:52:46+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.malvuln.com/advisory/fb4fb710f031304d788d9cd1c4201552.txt</loc>
+  <lastmod>2021-12-13T01:41:47+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.malvuln.com/advisory/20cfe4912b280ad141d51f1f7370bfa5.txt</loc>
+  <lastmod>2021-12-12T03:08:48+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.malvuln.com/advisory/8f18703c433b5703a7131c1afeacfd74.txt</loc>
+  <lastmod>2021-12-12T03:01:48+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.malvuln.com/advisory/fc8eaa2a5752b509dbd02989d8d9f2e2.txt</loc>
+  <lastmod>2021-12-11T05:15:43+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.malvuln.com/advisory/8b484576f928c256277016104cc364c2_B.txt</loc>
+  <lastmod>2021-12-11T20:53:49+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.malvuln.com/advisory/8b484576f928c256277016104cc364c2.txt</loc>
+  <lastmod>2021-12-11T21:02:27+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.malvuln.com/advisory/991c1f02c809cee860cb712896a45338_B.txt</loc>
+  <lastmod>2021-12-11T04:45:58+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.malvuln.com/advisory/991c1f02c809cee860cb712896a45338.txt</loc>
+  <lastmod>2021-12-11T04:42:20+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.malvuln.com/advisory/8de56eef118187a89eeab972288ce94d.txt</loc>
+  <lastmod>2021-12-11T20:59:10+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.malvuln.com/advisory/a83989d36f3b443a757eef1c99f1a373.txt</loc>
+  <lastmod>2021-12-11T04:28:15+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.malvuln.com/advisory/f93e64ac9c3383d0df23662a78a76c07.txt</loc>
+  <lastmod>2021-12-11T04:24:13+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.malvuln.com/advisory/8c9e7906d0ad5d0f2267be0057f2a8e3.txt</loc>
+  <lastmod>2021-12-11T04:19:44+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.malvuln.com/advisory/8170928cd3e0f1a79b9d40ae19a4d217.txt</loc>
+  <lastmod>2021-12-03T06:01:10+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.malvuln.com/advisory/0faecbdfccf3144d487971ed47f3665c.txt</loc>
+  <lastmod>2021-12-03T05:59:10+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.malvuln.com/advisory/99b4428521fa9d9da18e0ccd79e5b985.txt</loc>
+  <lastmod>2021-12-03T04:47:29+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.malvuln.com/advisory/f529d60abbdafccce3dc5e5ffd6cdfa6.txt</loc>
+  <lastmod>2021-12-03T04:45:03+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.malvuln.com/advisory/1d622f8c72b010b8d7213c032db122e4.txt</loc>
+  <lastmod>2021-12-03T04:42:49+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.malvuln.com/advisory/4d10cd3fa86239ade05d2b741892b1e5_B.txt</loc>
+  <lastmod>2021-11-25T21:58:26+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.malvuln.com/advisory/4d10cd3fa86239ade05d2b741892b1e5.txt</loc>
+  <lastmod>2021-11-25T21:55:07+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.malvuln.com/advisory/33f1dc8cf5987751ac0f063601f1c324.txt</loc>
+  <lastmod>2021-11-25T21:52:33+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.malvuln.com/advisory/694d21679cc212c59515584d1b65dc84.txt</loc>
+  <lastmod>2021-11-21T04:45:07+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.malvuln.com/advisory/a8818da39c7d36d9b5497d1a875798b8.txt</loc>
+  <lastmod>2021-11-21T04:39:38+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.malvuln.com/advisory/d2b933ebadd5c808ca4c68ae173e2d62.txt</loc>
+  <lastmod>2021-11-21T23:39:15+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.malvuln.com/advisory/5494b78dcfaf16aa43b5dbd563dc5582.txt</loc>
+  <lastmod>2021-11-21T04:12:34+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.malvuln.com/advisory/52d1341f73c34ba2638581469120b68a.txt</loc>
+  <lastmod>2021-11-21T04:01:53+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.malvuln.com/advisory/290477c9707f64a316888493ae67b1ef.txt</loc>
+  <lastmod>2021-11-21T04:05:43+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.malvuln.com/advisory/1ae08493913b2a0c8cbcb0541da5a8bc.txt</loc>
+  <lastmod>2021-11-21T03:48:48+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.malvuln.com/advisory/e865fc7225c84165d7aa0c7d8a1bcb77.txt</loc>
+  <lastmod>2021-11-21T03:49:38+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.malvuln.com/advisory/ee8990b5d076a7ed601a30eb677cc9be.txt</loc>
+  <lastmod>2021-11-08T02:49:58+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.malvuln.com/advisory/e2d249f86890d290bb8af599ea0367f3.txt</loc>
+  <lastmod>2021-11-08T01:17:52+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.malvuln.com/advisory/339ec4617eababfd46006f2219e68cb8.txt</loc>
+  <lastmod>2021-11-08T01:16:40+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.malvuln.com/advisory/7588da376f496aa678cdfca4e404f38a.txt</loc>
+  <lastmod>2021-11-08T01:13:40+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.malvuln.com/advisory/0857f2c8541dba287d648eec17163d3f.txt</loc>
+  <lastmod>2021-11-08T01:13:46+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.malvuln.com/advisory/1a4d58e281103fea2a4ccbfab93f74d2.txt</loc>
+  <lastmod>2021-11-08T01:48:42+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.malvuln.com/advisory/9603420a004d9559e610ddeb9d94e20a.txt</loc>
+  <lastmod>2021-11-08T00:51:43+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.malvuln.com/advisory/f393943eb6a80c8321f31c4543ba0bcf.txt</loc>
+  <lastmod>2021-11-06T03:29:28+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.malvuln.com/advisory/c6ba7fcb9eb9bdd7e081e2e84e784dcb_B.txt</loc>
+  <lastmod>2021-11-06T03:29:37+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.malvuln.com/advisory/c6ba7fcb9eb9bdd7e081e2e84e784dcb.txt</loc>
+  <lastmod>2021-11-06T03:29:21+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.malvuln.com/advisory/6ec85a641656f63f4de853468509d3e3.txt</loc>
+  <lastmod>2021-11-05T00:57:38+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.malvuln.com/advisory/885e74a43b4f7caec3cfb4dba0787de4_B.txt</loc>
+  <lastmod>2021-11-05T00:53:32+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.malvuln.com/advisory/885e74a43b4f7caec3cfb4dba0787de4.txt</loc>
+  <lastmod>2021-11-05T00:45:26+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.malvuln.com/advisory/4cf1f1d740d7acea4d3836228980ebcb.txt</loc>
+  <lastmod>2021-11-05T01:08:49+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.malvuln.com/advisory/3ee7a90b5fc3f2b7ba68911e8220df17.txt</loc>
+  <lastmod>2021-11-01T03:18:45+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.malvuln.com/advisory/6bf08611410e3ef7df67d781a2e8efed.txt</loc>
+  <lastmod>2021-11-01T04:04:14+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.malvuln.com/advisory/34fb086a88f3a2506b61a17cced3b476.txt</loc>
+  <lastmod>2021-11-01T03:55:50+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.malvuln.com/advisory/4692b129b0034fd53cd76867d9869e49.txt</loc>
+  <lastmod>2021-11-01T03:54:34+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.malvuln.com/advisory/ab96d7f9e008a0774239be6be0c8e7bb_B.txt</loc>
+  <lastmod>2021-10-28T00:42:23+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.malvuln.com/advisory/ab96d7f9e008a0774239be6be0c8e7bb.txt</loc>
+  <lastmod>2021-10-28T00:44:08+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.malvuln.com/advisory/b6bfdfe91c3e37865b6a269dc9ff9302.txt</loc>
+  <lastmod>2021-10-28T00:33:20+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.malvuln.com/advisory/2914f01e65d848655d4f1aac51ff04d1.txt</loc>
+  <lastmod>2021-10-27T20:36:21+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.malvuln.com/advisory/6a96fc226fbe9f0efbcc8a7b2e34b807.txt</loc>
+  <lastmod>2021-10-27T20:32:11+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.malvuln.com/advisory/fcd611ccbc756fab43761f4b18372b81.txt</loc>
+  <lastmod>2021-10-27T20:26:36+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.malvuln.com/advisory/80b0fc8c0657c0ae7971f09af45c706b_C.txt</loc>
+  <lastmod>2021-10-28T00:31:04+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.malvuln.com/advisory/80b0fc8c0657c0ae7971f09af45c706b_B.txt</loc>
+  <lastmod>2021-10-27T20:20:49+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.malvuln.com/advisory/80b0fc8c0657c0ae7971f09af45c706b.txt</loc>
+  <lastmod>2021-10-27T20:20:39+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.malvuln.com/advisory/21f324a6a62d8125bc83b8d1865e17f9_B.txt</loc>
+  <lastmod>2021-10-27T20:14:22+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.malvuln.com/advisory/21f324a6a62d8125bc83b8d1865e17f9.txt</loc>
+  <lastmod>2021-10-27T20:10:49+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.malvuln.com/advisory/05177f77f075293ff7d58a7f2915c64f.txt</loc>
+  <lastmod>2021-10-27T20:08:23+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.malvuln.com/advisory/0b2a0f61a209e24a7d7b2c2d5efb4d68.txt</loc>
+  <lastmod>2021-10-27T20:05:48+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.malvuln.com/advisory/e2660742a80433e027ee9bdedc40e190.txt</loc>
+  <lastmod>2021-10-15T17:33:12+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.malvuln.com/advisory/9f87546e667e5af59a8580ddf7fd43c7.txt</loc>
+  <lastmod>2021-10-15T17:30:09+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.malvuln.com/advisory/bbf032a3aa288f02403295f0472d1f05.txt</loc>
+  <lastmod>2021-10-15T17:28:32+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.malvuln.com/advisory/e312385f64e6b8fd667b4f9b5ea1ff70.txt</loc>
+  <lastmod>2021-10-15T16:53:18+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.malvuln.com/advisory/ae4c226ad974c990391217f31db2a209.txt</loc>
+  <lastmod>2021-10-15T17:25:54+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.malvuln.com/advisory/dcc58648868f1d5c0d7c53250f1bd5c9.txt</loc>
+  <lastmod>2021-10-15T17:26:52+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.malvuln.com/advisory/bc6f4a283b6b8308c60bb70cc81edfd8.txt</loc>
+  <lastmod>2021-10-15T16:45:54+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.malvuln.com/advisory/78a39875a0adb110cf3c7de3a0d1384c.txt</loc>
+  <lastmod>2021-10-15T17:22:47+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.malvuln.com/advisory/dec8f9042986d64e29d62effb482290b_B.txt</loc>
+  <lastmod>2021-10-05T01:03:44+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.malvuln.com/advisory/dec8f9042986d64e29d62effb482290b.txt</loc>
+  <lastmod>2021-10-05T01:20:34+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.malvuln.com/advisory/e60606d19a36789662ba97b4bb5c4ccf.txt</loc>
+  <lastmod>2021-10-05T01:26:10+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.malvuln.com/advisory/0e4fbfeb6f7a98e437a497013b285ffc.txt</loc>
+  <lastmod>2021-10-05T01:15:13+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.malvuln.com/advisory/be74cbb86c007309d8004d910f5270f7.txt</loc>
+  <lastmod>2021-10-05T02:33:23+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.malvuln.com/advisory/d6aff119c03ff378d386b30b36b07a69.txt</loc>
+  <lastmod>2021-10-05T00:31:41+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.malvuln.com/advisory/2e4b6c5bd907995f6fd40c5eeab5c6e9.txt</loc>
+  <lastmod>2021-10-05T02:18:19+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.malvuln.com/advisory/bf2417bf23a3b7ae2e44676882b4b9dd.txt</loc>
+  <lastmod>2021-10-05T02:18:01+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.malvuln.com/advisory/56a93a2a0a4c6a09e2761f2e0351b020.txt</loc>
+  <lastmod>2021-10-05T00:18:10+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.malvuln.com/advisory/001fc372acc853aa1cf92588a43a7deb.txt</loc>
+  <lastmod>2021-10-05T00:15:56+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.malvuln.com/advisory/8dc8abc99c1e7908fe9d048a4e360960_B.txt</loc>
+  <lastmod>2021-09-26T00:45:24+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.malvuln.com/advisory/8dc8abc99c1e7908fe9d048a4e360960.txt</loc>
+  <lastmod>2021-09-26T00:42:07+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.malvuln.com/advisory/284f36e35db6a0aa9a493f39d834367e.txt</loc>
+  <lastmod>2021-09-26T00:35:31+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.malvuln.com/advisory/38f9ee3ce51ead0ce6bf2edcaa462611.txt</loc>
+  <lastmod>2021-09-26T01:16:24+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.malvuln.com/advisory/9576a6a59715a69be499fa41d6383a64_B.txt</loc>
+  <lastmod>2021-09-26T00:24:25+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.malvuln.com/advisory/9576a6a59715a69be499fa41d6383a64.txt</loc>
+  <lastmod>2021-09-26T00:28:20+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.malvuln.com/advisory/8f81373b0f0e6f60206a1a707de2ed77.txt</loc>
+  <lastmod>2021-09-26T01:03:37+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.malvuln.com/advisory/3c407448a00b2d53b2418f53b66d5b6b.txt</loc>
+  <lastmod>2021-09-21T01:06:18+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.malvuln.com/advisory/a344b767d58b6c83b92bb868727e021c.txt</loc>
+  <lastmod>2021-09-21T00:47:31+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.malvuln.com/advisory/095651e1704b501123b41ea2e9736820.txt</loc>
+  <lastmod>2021-09-21T01:14:42+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.malvuln.com/advisory/c6c81e8ba0a7b9da6216a78dfeccec8d.txt</loc>
+  <lastmod>2021-09-09T20:02:40+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.malvuln.com/advisory/d0fd60516d53b2ad602c460351dbaa85.txt</loc>
+  <lastmod>2021-09-09T20:01:27+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.malvuln.com/advisory/2271d942a23a89d7adea524d4ac3c13f.txt</loc>
+  <lastmod>2021-09-09T20:07:09+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.malvuln.com/advisory/a6916fb9b824e3d2edfe46be69ca2501.txt</loc>
+  <lastmod>2021-09-09T18:08:09+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.malvuln.com/advisory/92ea873a2bbdaf0799d572bc4f30dc79.txt</loc>
+  <lastmod>2021-09-06T21:21:10+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.malvuln.com/advisory/551674fec6add7117c4be7f6b357e7cb.txt</loc>
+  <lastmod>2021-09-06T21:08:47+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.malvuln.com/advisory/dec17541412bbc744b9f458862349e34.txt</loc>
+  <lastmod>2021-09-06T21:04:08+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.malvuln.com/advisory/9dbb6d56bc9a7813305883acd0f9a355_C.txt</loc>
+  <lastmod>2021-09-01T19:55:34+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.malvuln.com/advisory/9dbb6d56bc9a7813305883acd0f9a355_B.txt</loc>
+  <lastmod>2021-09-01T19:50:07+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.malvuln.com/advisory/9dbb6d56bc9a7813305883acd0f9a355.txt</loc>
+  <lastmod>2021-09-01T19:47:53+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.malvuln.com/advisory/2a366cea300b84b4e6f8204a8c229266_C.txt</loc>
+  <lastmod>2021-08-31T00:57:46+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.malvuln.com/advisory/2a366cea300b84b4e6f8204a8c229266_B.txt</loc>
+  <lastmod>2021-08-31T00:57:39+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.malvuln.com/advisory/2a366cea300b84b4e6f8204a8c229266.txt</loc>
+  <lastmod>2021-08-31T00:57:31+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.malvuln.com/advisory/abc6a590d237b8ee180638007f67089e.txt</loc>
+  <lastmod>2021-08-31T01:49:38+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.malvuln.com/advisory/fc74e80ff2f49380972904d77df1c0f1_B.txt</loc>
+  <lastmod>2021-08-31T00:53:38+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.malvuln.com/advisory/fc74e80ff2f49380972904d77df1c0f1.txt</loc>
+  <lastmod>2021-08-31T01:09:08+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.malvuln.com/advisory/d5256768a01a0e7c2ad5ba1264777f71.txt</loc>
+  <lastmod>2021-08-31T01:07:45+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.malvuln.com/advisory/9adffcc98cd658a7f9c5419480013f72_B.txt</loc>
+  <lastmod>2022-05-04T18:10:10+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.malvuln.com/advisory/058ef1acc6456a924737d940f3cf81aa.txt</loc>
+  <lastmod>2021-08-30T19:05:51+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.malvuln.com/advisory/5d7908e7e95d0eb4a7351d24605e62a6.txt</loc>
+  <lastmod>2021-08-30T18:58:35+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.malvuln.com/advisory/033ccd3a926441c49d3898dab97aefed.txt</loc>
+  <lastmod>2021-08-31T01:43:47+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.malvuln.com/advisory/5c644104f96ccad7a8cf324c2e523530.txt</loc>
+  <lastmod>2021-08-31T01:42:04+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.malvuln.com/advisory/6209db6e8cfd7c7a315ca858129bd226.txt</loc>
+  <lastmod>2021-08-13T02:45:19+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.malvuln.com/advisory/665a408981294ca49be23096363eec2f.txt</loc>
+  <lastmod>2021-08-11T04:49:59+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.malvuln.com/advisory/bcfc89ca07bd0ad7b9396a0815c9fc39.txt</loc>
+  <lastmod>2021-08-11T04:32:57+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.malvuln.com/advisory/55ce4b6c2ec10838c54dca54d96801d6.txt</loc>
+  <lastmod>2021-08-11T04:28:13+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.malvuln.com/advisory/f240c16af2189ea9c94f317281ce7e59.txt</loc>
+  <lastmod>2021-08-05T21:00:55+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.malvuln.com/advisory/cedc886b593f013133df39bb6b43a762.txt</loc>
+  <lastmod>2021-08-05T20:53:00+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.malvuln.com/advisory/d12f38e959d70af76fd263aa1933033c.txt</loc>
+  <lastmod>2021-08-05T21:13:51+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.malvuln.com/advisory/07122dd3b069bbbb445e060c1249d5a2.txt</loc>
+  <lastmod>2021-08-05T21:09:07+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.malvuln.com/advisory/da60b92742abff72930879fa8560b3c3.txt</loc>
+  <lastmod>2021-08-05T20:35:18+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.malvuln.com/advisory/c98e23742807f3cb5a095f34e0eb0e52.txt</loc>
+  <lastmod>2021-07-28T00:49:07+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.malvuln.com/advisory/6fab73bf104c6a9211b94f9559faa134.txt</loc>
+  <lastmod>2021-07-26T11:53:36+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.malvuln.com/advisory/611dbff0d68df777c6d6881e00440143.txt</loc>
+  <lastmod>2021-07-26T11:41:09+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.malvuln.com/advisory/5817183894cb513239f6aef28895130c_B.txt</loc>
+  <lastmod>2021-07-26T11:31:41+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.malvuln.com/advisory/5817183894cb513239f6aef28895130c.txt</loc>
+  <lastmod>2021-07-26T11:24:17+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.malvuln.com/advisory/ce1963d3fd6a8e1383aac40a1f1c4107_C.txt</loc>
+  <lastmod>2021-07-26T12:18:23+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.malvuln.com/advisory/ce1963d3fd6a8e1383aac40a1f1c4107_B.txt</loc>
+  <lastmod>2021-07-26T05:34:55+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.malvuln.com/advisory/ce1963d3fd6a8e1383aac40a1f1c4107.txt</loc>
+  <lastmod>2021-07-26T05:31:07+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.malvuln.com/advisory/6681d5e4b68abd21a14c704edf9e2ff5.txt</loc>
+  <lastmod>2021-07-26T12:13:36+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.malvuln.com/advisory/16d598c01f7b391986c8c19eded005b1.txt</loc>
+  <lastmod>2021-07-26T05:22:09+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.malvuln.com/advisory/96f5cdfa5b3416c819d76060f11dc88d.txt</loc>
+  <lastmod>2021-07-18T04:56:23+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.malvuln.com/advisory/6f484fea8f6bb3974185fc856f37541b.txt</loc>
+  <lastmod>2021-07-18T05:07:19+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.malvuln.com/advisory/9185538b01ad700603f38fb0eb8b6e3b.txt</loc>
+  <lastmod>2021-07-18T05:05:24+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.malvuln.com/advisory/ca40998b5d62ee7f936537ff3de7993d.txt</loc>
+  <lastmod>2021-07-18T05:02:29+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.malvuln.com/advisory/eb272fe923ccf3e66fde1bf309cbc464.txt</loc>
+  <lastmod>2021-07-18T05:00:27+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.malvuln.com/advisory/9b12ff6b8b025e7fb0a171abad41c79c.txt</loc>
+  <lastmod>2021-07-18T04:46:04+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.malvuln.com/advisory/f2b5429feaa7d229418cf499ce5f5822.txt</loc>
+  <lastmod>2021-07-18T04:42:33+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.malvuln.com/advisory/bcf45d515f2a0c6ead1e44ea6371276b.txt</loc>
+  <lastmod>2021-07-18T04:39:18+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.malvuln.com/advisory/c971e978198331bb0b56dc8b47f0b4b0.txt</loc>
+  <lastmod>2021-07-13T02:05:00+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.malvuln.com/advisory/35100db8750364871fe70ef6de4833f7.txt</loc>
+  <lastmod>2021-07-13T02:04:53+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.malvuln.com/advisory/b1cec4b806c71c82bbd9002bdaf21d1f_C.txt</loc>
+  <lastmod>2021-07-12T04:32:12+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.malvuln.com/advisory/b1cec4b806c71c82bbd9002bdaf21d1f_B.txt</loc>
+  <lastmod>2021-07-12T04:22:05+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.malvuln.com/advisory/b1cec4b806c71c82bbd9002bdaf21d1f.txt</loc>
+  <lastmod>2021-07-13T01:50:46+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.malvuln.com/advisory/6baf47d953de7e4e07aef9b1af0c0d72.txt</loc>
+  <lastmod>2021-07-12T04:10:59+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.malvuln.com/advisory/125364b0cdae80c10f00b75c8e2cfa47_B.txt</loc>
+  <lastmod>2021-07-12T04:03:38+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.malvuln.com/advisory/125364b0cdae80c10f00b75c8e2cfa47.txt</loc>
+  <lastmod>2021-07-12T04:03:59+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.malvuln.com/advisory/c0d6a2f0b34d9c44ca3433e4d45f187e.txt</loc>
+  <lastmod>2021-07-13T01:37:21+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.malvuln.com/advisory/2da85579b259e6de86590e067003e064.txt</loc>
+  <lastmod>2021-07-12T03:41:54+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.malvuln.com/advisory/db0b3f4aeccb8d26f14b915a9e2529b4.txt</loc>
+  <lastmod>2021-07-12T03:33:03+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.malvuln.com/advisory/37d4a5ba123dd32f1e2c4ba0be14e77c_C.txt</loc>
+  <lastmod>2021-07-03T22:43:04+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.malvuln.com/advisory/37d4a5ba123dd32f1e2c4ba0be14e77c_B.txt</loc>
+  <lastmod>2021-07-03T22:33:00+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.malvuln.com/advisory/37d4a5ba123dd32f1e2c4ba0be14e77c.txt</loc>
+  <lastmod>2021-07-03T22:40:49+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.malvuln.com/advisory/83fe2cc7aedc452d71c751053a2112c4.txt</loc>
+  <lastmod>2021-07-03T21:44:12+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.malvuln.com/advisory/9729e9fc004ea49d3c2ddee28736dae3_B.txt</loc>
+  <lastmod>2021-07-03T21:08:11+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.malvuln.com/advisory/9729e9fc004ea49d3c2ddee28736dae3.txt</loc>
+  <lastmod>2021-07-03T21:05:46+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.malvuln.com/advisory/acfce60da9031e00c22818f2616d6424.txt</loc>
+  <lastmod>2021-07-03T20:03:02+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.malvuln.com/advisory/fe3fb2e929f95ed03233e7a4d622a28d.txt</loc>
+  <lastmod>2021-07-03T20:03:31+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.malvuln.com/advisory/8b17a68d7b2291f217b63e0377ee2b3a.txt</loc>
+  <lastmod>2021-07-03T20:03:50+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.malvuln.com/advisory/10550ca42c32c22bdd0515020cff38dd.txt</loc>
+  <lastmod>2021-07-03T20:04:03+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.malvuln.com/advisory/7e99aa748b61fd0802fa19cf9e4cf1f8.txt</loc>
+  <lastmod>2021-07-03T19:44:27+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.malvuln.com/advisory/79affcb4051d36dde3d1543a4fd88368.txt</loc>
+  <lastmod>2021-07-03T19:45:11+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.malvuln.com/advisory/af4868303124ee4f765a16328e8993a6.txt</loc>
+  <lastmod>2021-07-03T19:32:14+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.malvuln.com/advisory/d1791ca15c5df6f8f5d007518efd65b6.txt</loc>
+  <lastmod>2021-07-03T19:45:41+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.malvuln.com/advisory/d57536189430fd75e45f53845e9b3f94_B.txt</loc>
+  <lastmod>2021-07-03T19:19:44+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.malvuln.com/advisory/d57536189430fd75e45f53845e9b3f94.txt</loc>
+  <lastmod>2021-07-03T19:19:13+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.malvuln.com/advisory/776e8bb41adf8bd95865c0b03637d8d7_B.txt</loc>
+  <lastmod>2021-07-03T05:07:20+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.malvuln.com/advisory/776e8bb41adf8bd95865c0b03637d8d7.txt</loc>
+  <lastmod>2021-07-03T04:54:37+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.malvuln.com/advisory/9e1ef166901534c276b5eeeee511fe22.txt</loc>
+  <lastmod>2021-06-26T02:01:18+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.malvuln.com/advisory/af207a19fbe313e3f7e123b6b2acffd4.txt</loc>
+  <lastmod>2021-06-26T02:10:07+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.malvuln.com/advisory/ca18a07560efa0308827dc972351301f.txt</loc>
+  <lastmod>2021-06-26T02:10:14+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.malvuln.com/advisory/ee699b4055c6199f9826681797d64f0b.txt</loc>
+  <lastmod>2021-06-24T02:43:51+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.malvuln.com/advisory/f28e866ce2f99013a66b015f6a7f31a8.txt</loc>
+  <lastmod>2021-06-24T01:36:46+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.malvuln.com/advisory/304fb160949dcaec3e718481464f9ce6.txt</loc>
+  <lastmod>2021-06-24T00:53:55+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.malvuln.com/advisory/21cd8bab6b3569f7b375a69a37e36c50.txt</loc>
+  <lastmod>2021-06-24T01:38:22+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.malvuln.com/advisory/3fbec7c0623f5f80e4d9c096a50b0d59.txt</loc>
+  <lastmod>2021-06-24T01:42:10+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.malvuln.com/advisory/c38cd09fd5ebd1f0cc378804b2da08c4.txt</loc>
+  <lastmod>2021-06-20T05:49:38+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.malvuln.com/advisory/4a8d6bc838c09c6701abfa8b283fd0de.txt</loc>
+  <lastmod>2021-06-18T04:41:13+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.malvuln.com/advisory/57ab194d8c60ee97914eda22e4d71b68_C.txt</loc>
+  <lastmod>2021-06-17T00:39:48+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.malvuln.com/advisory/57ab194d8c60ee97914eda22e4d71b68_B.txt</loc>
+  <lastmod>2021-06-17T00:58:51+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.malvuln.com/advisory/57ab194d8c60ee97914eda22e4d71b68.txt</loc>
+  <lastmod>2021-06-17T01:01:09+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.malvuln.com/advisory/aa703bc17e3177d3b24a57c5d2a91a0c.txt</loc>
+  <lastmod>2021-06-16T22:32:10+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.malvuln.com/advisory/ff6516c881dee555b0cd253408b64404_D.txt</loc>
+  <lastmod>2021-06-14T03:34:41+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.malvuln.com/advisory/6ff35087d789f7aca6c0e3396984894e_B.txt</loc>
+  <lastmod>2021-06-14T00:12:52+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.malvuln.com/advisory/6ff35087d789f7aca6c0e3396984894e.txt</loc>
+  <lastmod>2021-06-13T23:58:22+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.malvuln.com/advisory/5be13eb16018ab69157f8c8e96e7d6bf.txt</loc>
+  <lastmod>2021-06-13T02:47:00+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.malvuln.com/advisory/ff6516c881dee555b0cd253408b64404_C.txt</loc>
+  <lastmod>2021-06-11T02:10:06+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.malvuln.com/advisory/ff6516c881dee555b0cd253408b64404_B.txt</loc>
+  <lastmod>2021-06-11T02:07:30+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.malvuln.com/advisory/ff6516c881dee555b0cd253408b64404.txt</loc>
+  <lastmod>2021-06-11T01:43:59+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.malvuln.com/advisory/dc77b126b205b0f671e505766c607ef1.txt</loc>
+  <lastmod>2021-06-08T18:44:45+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.malvuln.com/advisory/378b225b07979e12062f86ab1fbaf2ed.txt</loc>
+  <lastmod>2021-06-08T16:50:07+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.malvuln.com/advisory/ff30fbee3724d80dcb9471c0b553c99a.txt</loc>
+  <lastmod>2021-06-07T02:43:17+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.malvuln.com/advisory/911e63e28b1d177120cca16eacf3b602.txt</loc>
+  <lastmod>2021-06-07T01:59:46+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.malvuln.com/advisory/20863ba09c31037b1b3220fc6da100e1.txt</loc>
+  <lastmod>2021-06-07T02:39:48+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.malvuln.com/advisory/bf60f5b5c901bab08484838447f1b85e.txt</loc>
+  <lastmod>2021-06-03T20:38:16+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.malvuln.com/advisory/065d89c63fa1057de98c727d4b044b98.txt</loc>
+  <lastmod>2021-06-02T02:50:33+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.malvuln.com/advisory/e677149c35cbba118655d9b133da8827.txt</loc>
+  <lastmod>2021-06-01T04:02:18+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.malvuln.com/advisory/eba4ce50a036a196484715f60c8a449b.txt</loc>
+  <lastmod>2021-06-01T01:55:18+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.malvuln.com/advisory/911a97737bd26e2a478f52e74b4fa01d.txt</loc>
+  <lastmod>2021-05-30T23:53:58+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.malvuln.com/advisory/90171763d1cc62102b08482bac54ea8b.txt</loc>
+  <lastmod>2021-05-30T23:27:17+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.malvuln.com/advisory/15ca804e4634d9586f85b1d15ebe91a0.txt</loc>
+  <lastmod>2021-05-29T06:31:14+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.malvuln.com/advisory/d9822984ed546cbf3ccffd149d1d2af5.txt</loc>
+  <lastmod>2021-05-29T02:50:10+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.malvuln.com/advisory/464d7073f884b586b17950eef2908a6e_B.txt</loc>
+  <lastmod>2021-05-29T02:26:17+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.malvuln.com/advisory/464d7073f884b586b17950eef2908a6e.txt</loc>
+  <lastmod>2021-05-29T02:09:20+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.malvuln.com/advisory/317cd84b5c0d11a9c3aacdfe2bb6031c.txt</loc>
+  <lastmod>2021-05-29T02:00:31+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.malvuln.com/advisory/b297c565899ace88f40e5da833f41561.txt</loc>
+  <lastmod>2021-05-24T02:50:06+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.malvuln.com/advisory/cb02d2f323db18d7415dca47bceab9db.txt</loc>
+  <lastmod>2021-05-24T02:42:40+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.malvuln.com/advisory/70711c4f594fe97ff6ab17039c133458.txt</loc>
+  <lastmod>2021-05-24T01:22:41+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.malvuln.com/advisory/2bcd471d9dd0a8d6194f4112c2ee520f.txt</loc>
+  <lastmod>2021-05-24T01:16:46+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.malvuln.com/advisory/694ecf256c97ef6e206e2073d37e5944.txt</loc>
+  <lastmod>2021-05-22T06:05:42+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.malvuln.com/advisory/c7aabf5d248c6974b4cea6c070d6d441.txt</loc>
+  <lastmod>2021-05-22T03:56:46+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.malvuln.com/advisory/5e2e6ca532c20ee6a59861d936df7076.txt</loc>
+  <lastmod>2021-05-19T02:36:42+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.malvuln.com/advisory/9e22514c9b0e74c7fcb07b7c091f6123.txt</loc>
+  <lastmod>2021-05-18T21:09:35+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.malvuln.com/advisory/f60a8d71a822e0e485f22ada8f26c31e.txt</loc>
+  <lastmod>2021-05-18T21:00:44+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.malvuln.com/advisory/be4a6274679ca966a1d99140db54c25a.txt</loc>
+  <lastmod>2021-05-18T01:54:37+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.malvuln.com/advisory/7361fe3620fb6e18467c8e15e224b0b8_B.txt</loc>
+  <lastmod>2021-05-18T01:42:21+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.malvuln.com/advisory/7361fe3620fb6e18467c8e15e224b0b8.txt</loc>
+  <lastmod>2021-05-18T00:51:55+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.malvuln.com/advisory/a53351e8fa0cb4f7db3d0250387a0e4f.txt</loc>
+  <lastmod>2021-05-15T03:50:59+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.malvuln.com/advisory/380ff48c4a28ac25f5efb630883eeb17.txt</loc>
+  <lastmod>2021-05-14T05:27:54+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.malvuln.com/advisory/85f7ef2b6b8da9adb7723a13b91ac1c7_B.txt</loc>
+  <lastmod>2021-05-14T05:06:40+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.malvuln.com/advisory/85f7ef2b6b8da9adb7723a13b91ac1c7.txt</loc>
+  <lastmod>2021-05-14T17:59:15+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.malvuln.com/advisory/4de6f4104a5fc2185164747a6fcf20ce.txt</loc>
+  <lastmod>2021-05-14T05:05:57+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.malvuln.com/advisory/e85a1028a52fcc723353a236ada54fee_C.txt</loc>
+  <lastmod>2021-05-14T17:53:49+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.malvuln.com/advisory/e85a1028a52fcc723353a236ada54fee_B.txt</loc>
+  <lastmod>2021-05-14T17:51:46+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.malvuln.com/advisory/e85a1028a52fcc723353a236ada54fee.txt</loc>
+  <lastmod>2021-05-14T17:49:07+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.malvuln.com/advisory/2910c3bea6732d5ed81a7c44d4354136.txt</loc>
+  <lastmod>2021-05-14T05:03:55+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.malvuln.com/advisory/6b9f5a0512af3ab33c26eaa4bdf94f1f.txt</loc>
+  <lastmod>2021-05-12T03:39:09+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.malvuln.com/advisory/1ef711b34cc278449f1997e4ed06334a.txt</loc>
+  <lastmod>2021-05-08T03:22:50+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.malvuln.com/advisory/88785a093b8fa00893214dd220ac255d.txt</loc>
+  <lastmod>2021-05-08T00:37:33+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.malvuln.com/advisory/6eece319bc108576bd1f4a8364616264_B.txt</loc>
+  <lastmod>2021-05-05T02:20:05+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.malvuln.com/advisory/3a36d7ab34b3241aa2a9072700e0cb7c.txt</loc>
+  <lastmod>2021-05-05T01:50:59+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.malvuln.com/advisory/0629e3b2ab8a973a3e37e4e97cb9cfea.txt</loc>
+  <lastmod>2021-05-05T01:06:02+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.malvuln.com/advisory/b4a35ae6dcceea6390769829b4e1506f.txt</loc>
+  <lastmod>2021-05-05T00:50:31+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.malvuln.com/advisory/ffa9b76f9549a2c46415c855a0911e8a.txt</loc>
+  <lastmod>2021-05-05T00:53:49+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.malvuln.com/advisory/c1e92e04cdb432d83ea2610ef226d4cd_B.txt</loc>
+  <lastmod>2021-04-30T01:54:31+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.malvuln.com/advisory/c1e92e04cdb432d83ea2610ef226d4cd.txt</loc>
+  <lastmod>2021-04-30T01:54:22+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.malvuln.com/advisory/7c92e59e776355734781bbf05571d0f0.txt</loc>
+  <lastmod>2021-04-29T22:59:49+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.malvuln.com/advisory/c7763bae3376a9f2865a1a18e84c259e.txt</loc>
+  <lastmod>2021-04-29T22:32:50+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.malvuln.com/advisory/509e3d4839688c6173980dfba22ebd55.txt</loc>
+  <lastmod>2021-04-29T22:22:57+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.malvuln.com/advisory/46e27d7bfdbda7a71dfa12a79026a88b.txt</loc>
+  <lastmod>2021-04-29T21:15:40+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.malvuln.com/advisory/765698ccfb033c86eea6d293235d7ed0.txt</loc>
+  <lastmod>2021-04-29T21:11:33+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.malvuln.com/advisory/853754de6b8ffbe1321a8c91aab5c232_C.txt</loc>
+  <lastmod>2021-04-28T00:20:13+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.malvuln.com/advisory/853754de6b8ffbe1321a8c91aab5c232_B.txt</loc>
+  <lastmod>2021-04-27T23:52:19+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.malvuln.com/advisory/853754de6b8ffbe1321a8c91aab5c232.txt</loc>
+  <lastmod>2021-04-28T00:06:35+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.malvuln.com/advisory/842f6f21a2a83792e98900df90c9340b.txt</loc>
+  <lastmod>2021-04-27T20:30:39+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.malvuln.com/advisory/1d6d6d3c077250b7b3ad053e71054ecc.txt</loc>
+  <lastmod>2021-04-27T20:27:42+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.malvuln.com/advisory/bcad7aa6cb6cb9d94377cd88acbca1c9.txt</loc>
+  <lastmod>2021-04-23T20:58:58+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.malvuln.com/advisory/6a3329d12323f4920dbf13afe1be6acd.txt</loc>
+  <lastmod>2021-04-23T20:40:26+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.malvuln.com/advisory/17e3836682ffb0913459ece7c3f0786d.txt</loc>
+  <lastmod>2021-04-22T00:11:27+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.malvuln.com/advisory/d2ee6046fd47de321d1310dccacca92b.txt</loc>
+  <lastmod>2021-04-21T23:36:16+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.malvuln.com/advisory/ea6dfec6c3900ab422875119972d9c62.txt</loc>
+  <lastmod>2021-04-21T23:33:23+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.malvuln.com/advisory/360bbc9e0926488f085029948ff6c759.txt</loc>
+  <lastmod>2021-04-21T23:31:10+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.malvuln.com/advisory/1a98a0a769e7351ba16e1b91e9f26692.txt</loc>
+  <lastmod>2021-04-21T23:28:36+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.malvuln.com/advisory/c58d5aecd223ac95ae5fab6dcd69e953.txt</loc>
+  <lastmod>2021-04-18T21:05:31+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.malvuln.com/advisory/db45a906a0a3747398b2b8a5faff5e44.txt</loc>
+  <lastmod>2021-04-18T05:59:29+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.malvuln.com/advisory/d7648b676dd139d1b7ba781816726510.txt</loc>
+  <lastmod>2021-04-18T01:37:39+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.malvuln.com/advisory/2f3f0e9be7edb73e545fc49b5a78b4f0.txt</loc>
+  <lastmod>2021-04-17T20:18:07+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.malvuln.com/advisory/2992b86d03c3922ed45fa09ef105f018.txt</loc>
+  <lastmod>2021-04-17T20:18:17+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.malvuln.com/advisory/9fff4c02274c0162880844f27ff91407.txt</loc>
+  <lastmod>2021-04-17T19:42:38+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.malvuln.com/advisory/d4ac133a9df0c627f899bb6039d04215.txt</loc>
+  <lastmod>2021-04-17T23:31:26+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.malvuln.com/advisory/55feab480a43727c8a08feb7344afb4a.txt</loc>
+  <lastmod>2021-04-15T02:58:37+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.malvuln.com/advisory/1d40e72fb8cf300298df4b828b48ec29.txt</loc>
+  <lastmod>2021-04-13T23:52:42+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.malvuln.com/advisory/a2017b547da2f06c6d7c02398cc481f6.txt</loc>
+  <lastmod>2021-04-13T23:49:12+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.malvuln.com/advisory/982479ad10ff048d566516254051e17e.txt</loc>
+  <lastmod>2021-04-13T23:43:15+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+
+
+</urlset>
