@@ -107,24 +107,22 @@ div.over {
     <a href="https://intel.malvuln.com" style="color:#aaa; text-decoration:underline; background:none;">intel.malvuln.com</a>
   </div>
 </div>-->
-<style>
-  /* target the feed block by ID so this is specific and easy to maintain */
-  #malv-feed { text-align:center; margin:1.8em 0 !important; background:none !important; border:none !important; padding:0 !important; }
-  #malv-feed > a { color:#ccc !important; text-decoration:none !important; font-family:monospace !important; font-size:1.6rem !important; background:none !important; }
-  #malv-feed > .feed-desc { color:#aaa !important; font-family:monospace !important; font-size:1.3rem !important; margin-top:8px !important; background:none !important; }
-  #malv-feed a.feed-url { color:#bbb !important; text-decoration:underline !important; }
-</style>
-
-<div id="malv-feed">
-  <a href="https://intel.malvuln.com" title="Malvuln Intelligence Feed for MISP">
+<!-- Malvuln Intelligence Feed link -->
+<div style="text-align:center; margin:1em 0 0.5em 0; background:none; padding:0;">
+  <a href="https://intel.malvuln.com"
+     style="display:inline-block; color:#ccc; text-decoration:none; font-family:monospace;
+            font-size:1.6rem; line-height:1.4; background:none !important;">
     🔗 Malvuln Intelligence Feed (MISP-Compatible)
   </a>
-  <div class="feed-desc">
-    Browse or integrate threat intelligence data from Malvuln — available at 
-    <a class="feed-url" href="https://intel.malvuln.com">intel.malvuln.com</a>
+  <div style="color:#aaa; font-size:1.3rem; font-family:monospace; margin-top:6px;
+              background:none !important;">
+    Browse or integrate threat intelligence data from Malvuln —
+    <a href="https://intel.malvuln.com"
+       style="color:#bbb; text-decoration:underline; background:none !important;">
+       intel.malvuln.com
+    </a>
   </div>
 </div>
-
 
 
 <button type="button" class="collapsible" onclick="javascript:doit('advisory/88922242e8805bfbc5981e55fdfadd71.txt', '700')">
