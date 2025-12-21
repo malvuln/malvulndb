@@ -5,7 +5,7 @@ Contact: malvuln13@gmail.com
 Media: x.com/malvuln 
 
 Threat: HEUR.Backdoor.Win32.Poison.gen
-Vulnerability: Code Execution
+Vulnerability: Arbitrary Code Execution
 Description: The malware looks for and executes a x32-bit "WININET.dll" PE file in its current directory. Therefore, we can hijack the DLL and execute our own code to intercept and terminate the malware. Leverage RansomLordNG v1.0 for DLL generation, while written as a proof-of-concept to specifically defeat ransomware, these DLLs may also defeat other types of malware if vulnerable. All basic tests were conducted successfully in a virtual machine environment. RansomLordNG v1.0 currently includes enhanced logging, memory dump and deweaponize features.
 Family: Poison
 Type: PE32
